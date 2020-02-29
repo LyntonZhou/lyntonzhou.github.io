@@ -2,9 +2,9 @@
 
 ### About me
 
-I am a PhD student from Beijing Normal University.
+I am a PhD student at Beijing Normal University.
 
-I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) ; (2) ; (3) .
+I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) watershed-scale heavy metal modeling; (2) weather generator; (3) uncertainty quantification.
 
 ### Publicatons
 
@@ -28,22 +28,4 @@ Beijing Normal University
 Email: zhoulf@mail.bnu.edu.cn (or lingfeng.zhou.cn@gmail.com)
 
 Webpage: [https://lyntonzhou.github.io/](https://lyntonzhou.github.io/)
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
