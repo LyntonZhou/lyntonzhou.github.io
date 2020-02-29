@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Lingfeng Zhou
 ---
 
 # Hello! I am Lingfeng Zhou.
