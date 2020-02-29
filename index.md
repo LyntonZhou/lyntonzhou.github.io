@@ -1,4 +1,6 @@
+---
 title: Blog
+---
 
 # Hello! I am Lingfeng Zhou.
 
