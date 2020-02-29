@@ -6,7 +6,7 @@ title: Lingfeng Zhou
 
 ## About me
 
-![Image of me](https://lyntonzhou.github.io/photo1.jpg)
+<p>![Image of me](https://lyntonzhou.github.io/photo1.jpg)</p>
 
 I am a PhD student at Beijing Normal University.
 
