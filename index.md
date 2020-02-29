@@ -6,6 +6,11 @@ I am a PhD student at Beijing Normal University.
 
 I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) watershed-scale heavy metal modeling; (2) weather generator; (3) uncertainty quantification.
 
+## Models
+
+1. **SWAT-HM model**
+2. **EHS weather generator**								
+
 ## Publications
 
 1. **Lingfeng Zhou**, et al., (2020) A frequency-domain nonstationary multi-site rainfall generator for use in hydrological impact assessment. **_Journal of Hydrology_**
