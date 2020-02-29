@@ -1,12 +1,33 @@
 ## Hello! I am Lingfeng Zhou.
 
-You can use the [editor on GitHub](https://github.com/LyntonZhou/LyntonZhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student from Beijing Normal University
 
-### Markdown
+I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) ; (2) ; (3) .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publicatons
+
+[1] Lingfeng Zhou, et al., (2020) A frequency-domain nonstationary multi-site rainfall generator for use in hydrological impact assessment. _Journal of Hydrology_ 									
+[2] Lingfeng Zhou, et al., (2020) Uncertainty-based metal budget assessment at the watershed scale: Implications for environmental management practices. _Journal of Hydrology_ 								
+[3] Lingfeng Zhou, et al., (2019) A new framework for multi-site stochastic rainfall generator based on empirical orthogonal function analysis and Hilbert-Huang transform. _Journal of Hydrology_
+[4] Yaobin Meng, Lingfeng Zhou*, et al., (2018) A heavy metal module coupled with the SWAT model and its preliminary application in a mine-impacted watershed in China. _Science of The Total Environment_ 
+
+### Presentations
+
+[1] The 2019 International SWAT Conference, Vienna, Austria. 2019. A frequency-domain nonstationary multi-site rainfall generator for use in hydrological impact assessment
+[2] The EGU General Assembly 2018, Vienna, Austria. 2018. A new meteorological scenario generation method for hydrological impact assessment based on empirical orthogonal function analysis and Hilbert-Huang transform
+[3] The 2015 International SWAT Conference, Sardinia, Italy. 2015. A Heavy Metal Module Coupled in SWAT Model and Its Application in Liuyang River Upstream Basin in China
+
+### Contact
+
+Lingfeng Zhou, Ph.D. student
+
+Beijing Normal University
+
+Email: zhoulf@mail.bnu.edu.cn (or lingfeng.zhou.cn@gmail.com)
+
+Webpage: https://lyntonzhou.github.io/ 
 
 ```markdown
 Syntax highlighted code block
@@ -25,19 +46,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LyntonZhou/LyntonZhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-## Contact
-
-Lingfeng Zhou, Ph.D. student
-
-Beijing Normal University
-
-Email: zhoulf@mail.bnu.edu.cn (or lingfeng.zhou.cn@gmail.com)
-
-Webpage: https://lyntonzhou.github.io/ 
