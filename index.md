@@ -6,6 +6,7 @@ title: Lingfeng Zhou
 
 ## About me
 
+![Image of me](https://octodex.github.com/images/yaktocat.png)
 I am a PhD student at Beijing Normal University.
 
 I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) watershed-scale heavy metal modeling; (2) weather generator; (3) uncertainty quantification.
