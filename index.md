@@ -8,7 +8,7 @@ I am particularly interested in watershed hydrology and water quality modeling. 
 
 ### Publicatons
 
-[1] Lingfeng Zhou, et al., (2020) A frequency-domain nonstationary multi-site rainfall generator for use in hydrological impact assessment. _Journal of Hydrology_ 									
+[1] Lingfeng Zhou, et al., (2020) A frequency-domain nonstationary multi-site rainfall generator for use in hydrological impact assessment. _Journal of Hydrology_
 [2] Lingfeng Zhou, et al., (2020) Uncertainty-based metal budget assessment at the watershed scale: Implications for environmental management practices. _Journal of Hydrology_ 								
 [3] Lingfeng Zhou, et al., (2019) A new framework for multi-site stochastic rainfall generator based on empirical orthogonal function analysis and Hilbert-Huang transform. _Journal of Hydrology_
 [4] Yaobin Meng, Lingfeng Zhou*, et al., (2018) A heavy metal module coupled with the SWAT model and its preliminary application in a mine-impacted watershed in China. _Science of The Total Environment_ 
