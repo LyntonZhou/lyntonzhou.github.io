@@ -27,5 +27,5 @@ Beijing Normal University
 
 Email: zhoulf@mail.bnu.edu.cn (or lingfeng.zhou.cn@gmail.com)
 
-Webpage: [https://lyntonzhou.github.io/](https://lyntonzhou.github.io/)
+Webpage: [https://lyntonzhou.github.io](https://lyntonzhou.github.io)
 ```
