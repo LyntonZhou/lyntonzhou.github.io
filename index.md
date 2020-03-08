@@ -1,8 +1,8 @@
 ---
-title: Lingfeng Zhou (周凌峰)
+title: Home | Lingfeng Zhou 
 ---
 
-# Hello! I am Lingfeng Zhou.
+# Hello! I am Lingfeng Zhou (周凌峰).
 
 ## About me
 
