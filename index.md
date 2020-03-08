@@ -1,5 +1,5 @@
 ---
-title: Home | Lingfeng Zhou 
+title: Homepage - Lingfeng Zhou 
 ---
 
 # Hello! I am Lingfeng Zhou (周凌峰).
