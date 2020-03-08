@@ -8,7 +8,7 @@ title: Lingfeng Zhou
 
 I am a PhD student at Beijing Normal University.
 
-I am particularly interested in watershed hydrology and water quality modeling. Specific research interests include: (1) watershed-scale heavy metal modeling; (2) weather generator; (3) uncertainty quantification.
+I am particularly interested in watershed hydrological and water quality modeling. Specific research interests include: (1) watershed-scale heavy metal modeling; (2) weather generator; (3) uncertainty quantification.
 
 ## Models
 
